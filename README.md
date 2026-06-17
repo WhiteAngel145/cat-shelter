@@ -9,7 +9,7 @@ js-back-end Softuni
 	- [x] Debugging
 - [x] Add basic http server
 - [x] Add resources
-- [] 
+- [x] Show home page
 - [] 
 - [] 
 - [] 
