@@ -3,7 +3,7 @@ js-back-end Softuni
 
 ## TODOS
 
-- [] Initialize NodeJS Project
+- [x] Initialize NodeJS Project
 - [] 
 - [] 
 - [] 
