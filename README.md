@@ -16,8 +16,8 @@ js-back-end Softuni
 - [x] Read site css from file system
 - [x] Add create breed page
 - [x] Add create cat page
-- [] 
-- [] 
+- [x] Render dynamic cats on home page
+- [] Add cats from add-cats page
 - [] 
 - [] 
 - [] 
