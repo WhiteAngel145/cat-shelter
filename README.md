@@ -19,5 +19,5 @@ js-back-end Softuni
 - [x] Render dynamic cats on home page
 - [x] Add cats from add-cats page
 	- [x] Redirect to home page
-- [] 
+- [x] Add cat persistens
 - [] 
