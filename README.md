@@ -12,10 +12,10 @@ js-back-end Softuni
 - [x] Show home page
 - [x] Add css
 - [x] Extract home and css into separate js files
-- [] 
-- [] 
-- [] 
-- [] 
+- [x] Read home html from file system
+- [x] Read site css from file system
+- [x] Add create breed page
+- [x] Add create cat page
 - [] 
 - [] 
 - [] 
