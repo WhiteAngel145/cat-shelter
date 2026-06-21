@@ -20,4 +20,10 @@ js-back-end Softuni
 - [x] Add cats from add-cats page
 	- [x] Redirect to home page
 - [x] Add cat persistens
+- [x] Add edit cat
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
 - [] 
