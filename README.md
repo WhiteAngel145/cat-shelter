@@ -19,11 +19,11 @@ js-back-end Softuni
 - [x] Render dynamic cats on home page
 - [x] Add cats from add-cats page
 	- [x] Redirect to home page
-- [x] Add cat persistens
+- [x] Add data persistence
 - [x] Add edit cat
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
+- [x] Show details page
+- [x] Delete cat (shelter cat button)
+- [] Add breed to db
+- [] Show breed on cat create
+- [] Show breed on cat edit !! selected current breed
+- [] Search cat
