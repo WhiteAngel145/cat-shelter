@@ -24,6 +24,6 @@ js-back-end Softuni
 - [x] Show details page
 - [x] Delete cat (shelter cat button)
 - [x] Add breed to db
-- [] Show breed on cat create
-- [] Show breed on cat edit !! selected current breed
+- [x] Show breed on cat create
+- [x] Show breed on cat edit !! selected current breed
 - [] Search cat
